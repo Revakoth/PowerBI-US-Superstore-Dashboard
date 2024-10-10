@@ -75,11 +75,14 @@ Validated data accuracy by cross-checking with expected ranges and values.
 ##### Creating Visualizations:
 
 Developed visualizations for Sales Analytics, Profit Analytics, and Order Analytics.
+<br>
 Used bookmarks and a navigation pane to help viewers navigate through the three segments of the report:
-
-Sales Analytics: Visualizations include bar charts, line charts, and donut charts to represent sales data.
-Profit Analytics: Visualizations include bar charts, line charts and donut charts to analyze profitability.
-Order Analytics: Visualizations include tree maps, line charts and bar charts to analyze customer demographics.
+<br>
+<ul>
+  <li>Sales Analytics: Visualizations include bar charts, line charts, funnel charts, filled map, cards and donut charts to represent sales data.</li>
+  <li>Profit Analytics: Visualizations include bar charts, map chart, key influencers, tree map and cards to analyze profitability.</li>
+  <li>Order Analytics: Visualizations include bar charts, line charts and stacked bar cahrts, error graphs to analyze orders.</li>
+</ul>
 
 Added slicers for regions, states or provinces and filters to provide insights into top sales, top profits, and the number of orders for different product categories and customer segments.
 Analyzed trends for sales, profits, and the number of orders over the available period of data.
@@ -101,4 +104,30 @@ Utilized donut charts to display the proportion of sales and profits by category
 Visual Examples
 Here are some screenshots of the key visualizations from the Power BI report:
 
-Sales Analytics Dashboard:
+###### Sales Analytics Dashboard:
+
+![image](https://github.com/user-attachments/assets/04e2e6eb-63ad-4e2d-8c44-5af5c9b10cd3)
+
+###### Profit Analytics Dashboard: 
+![image](https://github.com/user-attachments/assets/e9bfb810-030f-4281-a152-2b1ee7252549)
+
+###### Order Analytics Dashboard:
+![image](https://github.com/user-attachments/assets/cae0f738-e966-4518-99bd-abdaf540fb8b)
+
+The analysis provided the following key insights:
+
+###### Sales Analytics:
+
+Identified the best-selling products and customer segments that contributed in high sales.
+Recognized seasonal sales trends and peak sales periods.
+Analyzed regional sales performance to identify high-performing regions.
+###### Profit Analytics:
+
+Determined the most profitable products and high profit making customer segments.
+Recognized seasonal profit trends and peak profit periods.
+
+##### Conclusion
+The analysis of the US Superstore dataset provided valuable insights into the business's sales performance, profitability, and customer demographics. These insights can be used to make data-driven decisions to improve business operations, enhance customer satisfaction, and increase profitability. The visualizations and interactive elements created in Power BI make it easy to explore and understand the data, enabling stakeholders to make informed decisions based on the analysis.
+
+
+
